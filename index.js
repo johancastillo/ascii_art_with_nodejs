@@ -1,9 +1,9 @@
 const figlet = require('figlet');
 
-figlet('Made by', (err, result) =>{
-    console.log(err || result);
-})
-
-figlet('Jc Johan', (err, result) =>{
+figlet('Johan', {
+    font: 'Ghost',
+    horizontalLayout: 'default',
+    verticalLayout: 'default'
+},(err, result) =>{
     console.log(err || result);
 })
