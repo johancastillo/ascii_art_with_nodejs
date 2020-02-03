@@ -1,0 +1,12 @@
+{
+  "name": "ascii_art_with_nodejs",
+  "version": "1.0.0",
+  "description": "ASCII Art Examples",
+  "main": "index.js",
+  "repository": "https://github.com/johancastillo/ascii_art_with_nodejs",
+  "author": "Johan Castillo (Jc) jcjohan2707@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "figlet": "^1.2.4"
+  }
+}
